@@ -7,4 +7,5 @@
 recommend_calc.py참고#
 
 [주의사항] 코드 중 oracledb.init_oracle_client(lib_dir="C:/hyosungedu/DevUtils/instantclient_21_13") 
-이 부분은 오라클 instantclient를 다운 받고 노트북의 다운받은 경로를 작성해줘야함.
+이 부분은 오라클 instantclient를 다운 받고 노트북의 다운받은 경로를 작성해줘야함. os에 맞게 다운 받고 나서 수정!
+https://www.oracle.com/database/technologies/instant-client/downloads.html
